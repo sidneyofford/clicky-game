@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/optimusPrime.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/megatron.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/bumblebee.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/lugnut.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/hotshot.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/mixmaster.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/jazz.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/shockwave.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/mainframe.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/soundwave.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/omegaSupreme.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/starscream.jpg",
+    "clicked": false
+  }
+]
